@@ -2,6 +2,9 @@
 
 Initial Author: Boyuan Deng
 
+### Contributors
+Ethan Peck (edp2@rice.edu)
+
 ## Overview
 
 This library is built for Rice Electric Vehicle Electric Team's auxilary board (aux board). The main function of the auxilary board include the following:
