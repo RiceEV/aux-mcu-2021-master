@@ -1,9 +1,11 @@
-# Central Controller Code
+# (DEPRECATED) Central Controller Code
+
+This repository is now deprecated, refer to the auxiliary-firmware repository for the most up-to-date version of the aux board firmware
 
 Initial Author: Boyuan Deng
 
 ### Contributors
-Ethan Peck (edp2@rice.edu)
+Ethan Peck (edp2@rice.edu, etdpeck@gmail.com)
 
 ## Overview
 
